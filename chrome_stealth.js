@@ -1,5 +1,5 @@
 // Chrome Stealth Patch - Additional evasion for Cloudflare and other bot detection
-// Based on https://github.com/jonfriesen/playwright-go-stealth/issues/2
+// Based on https://github.com/malikbenkirane/playwright-go-stealth/issues/2
 (() => {
   const windowsPatch = (w) => {
     w.chrome = {

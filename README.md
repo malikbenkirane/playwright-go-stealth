@@ -12,7 +12,7 @@ This is a simple shim to inject the [puppeteer-extra-plugin-stealth](https://git
 ## Usage
 
 ```go
-import stealth "github.com/jonfriesen/playwright-go-stealth"
+import stealth "github.com/malikbenkirane/playwright-go-stealth"
 
 // pass a playwright.Page and the script will be injected
 err = stealth.Inject(playwrightPage)

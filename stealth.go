@@ -23,7 +23,7 @@ type Options struct {
 	//
 	// This is useful for bypassing additional bot detection mechanisms
 	// that the base stealth script doesn't cover.
-	// See: https://github.com/jonfriesen/playwright-go-stealth/issues/2
+	// See: https://github.com/malikbenkirane/playwright-go-stealth/issues/2
 	ChromeStealth bool
 }
 

@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	stealth "github.com/jonfriesen/playwright-go-stealth"
+	stealth "github.com/malikbenkirane/playwright-go-stealth"
 	"github.com/mxschmitt/playwright-go"
 )
 

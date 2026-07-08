@@ -1,6 +1,6 @@
 # 🥷 playwright-go-stealth
 
-This is a simple shim to inject the [puppeteer-extra-plugin-stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) evasions using [berstend's extraction](https://github.com/berstend/puppeteer-extra/tree/master/packages/extract-stealth-evasions) for [playwright-go](https://github.com/playwright-community/playwright-go).
+This is a simple shim to inject the [puppeteer-extra-plugin-stealth](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra-plugin-stealth) evasions using [berstend's extraction](https://github.com/berstend/puppeteer-extra/tree/master/packages/extract-stealth-evasions) for [playwright-go](https://github.com/mxschmitt/playwright-go).
 
 | Example Comparison |
 |---------------------|

@@ -4,7 +4,7 @@ import (
 	"log"
 
 	stealth "github.com/jonfriesen/playwright-go-stealth"
-	"github.com/playwright-community/playwright-go"
+	"github.com/mxschmitt/playwright-go"
 )
 
 const targetSite = "https://bot.sannysoft.com"
